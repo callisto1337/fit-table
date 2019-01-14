@@ -1,4 +1,4 @@
-# fit-table
+# Fit Table
 
 ## Project setup
 ```
